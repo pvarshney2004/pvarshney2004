@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I’m Prashant Varshney
 
-<!--
-**pvarshney2004/pvarshney2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💡 About Me
+I’m a **Computer Science student** passionate about building practical software and data-driven solutions.  
+I love working with the **MERN stack, Java** and exploring full-stack development, DSA, and real-world projects.
 
-Here are some ideas to get you started:
+🌱 Currently improving my skills in **full-stack development, competitive programming, and project deployment**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech & Tools
+
+**Languages:** JavaScript, Java, Python  
+**Frontend:** React, HTML, CSS  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB, MySQL  
+**Development:** Git, GitHub, VS Code  
+
+---
