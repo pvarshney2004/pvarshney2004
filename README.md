@@ -27,18 +27,23 @@ Currently, I am **learning .NET Full Stack development with C#** to expand my ba
 🛠️ Tech Stack
 
 🔹 Languages
+
 JavaScript • Java • Python • C# (learning)
 
 🔹 Frontend
+
 React • HTML5 • CSS3 • Tailwind CSS (basic)
 
 🔹 Backend
+
 Node.js • Express.js • ASP.NET Core (.NET) (learning)
 
 🔹 Databases
+
 MongoDB • MySQL
 
 🔹 Tools & Concepts
+
 Git • GitHub • VS Code • REST APIs • OOP • Data Structures & Algorithms
 
 ---
