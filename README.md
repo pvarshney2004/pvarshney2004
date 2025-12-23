@@ -15,7 +15,7 @@ I enjoy working with the **MERN stack, Java**, and have hands-on experience in *
 
 ## 🎓 Education
 **Bachelor of Technology (B.Tech) – Computer Science (Data Analytics)**  
-GLA University (2022-2026)
+GLA University, Mathura (2022-2026)
 
 ---
 
@@ -25,7 +25,6 @@ GLA University (2022-2026)
 **Frontend:** React, HTML, CSS, Tailwind CSS  
 **Backend:** Node.js, Express.js  
 **Databases:** MongoDB, MySQL  
-**Tools & Platforms:** Git, GitHub, VS Code, Postman  
-**Core Concepts:** DSA, OOP, REST APIs, MERN Stack  
+**Tools & Platforms:** Git, GitHub, VS Code   
 
 ---
