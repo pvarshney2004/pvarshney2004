@@ -25,6 +25,7 @@ Currently, I am **learning .NET Full Stack development with C#** to expand my ba
 ## 🛠️ Tech Stack & Tools
 
 🛠️ Tech Stack
+
 🔹 Languages
 JavaScript • Java • Python • C# (learning)
 
